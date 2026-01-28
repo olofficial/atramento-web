@@ -88,7 +88,7 @@ h1 {
 }
 
 .brand-logo {
-  height: calc((var(--hero-title-size) + var(--hero-tagline-size) + var(--hero-text-gap)) * 1.35);
+  height: calc((var(--hero-title-size) + var(--hero-tagline-size) + var(--hero-text-gap)) * 1.28);
   width: auto;
   object-fit: contain;
   display: block;
